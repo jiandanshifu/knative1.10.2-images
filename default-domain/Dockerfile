@@ -1,0 +1,1 @@
+FROM gcr.io/knative-releases/knative.dev/serving/cmd/default-domain@sha256:8ba8158fdcdb55862bf65282f3f8f5c79bdc8e6117576136a901e43f4a052d4a
